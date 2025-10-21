@@ -1,0 +1,14 @@
+{
+	"name": "@rejc2/moe-character-stroke-data",
+	"version": "1.1.0",
+	"type": "module",
+	"packageManager": "yarn@4.10.3",
+	"main": "./index.js",
+	"types": "./index.d.ts",
+	"exports": {
+		".": {
+			"types": "./index.d.ts",
+			"import": "./index.js"
+		}
+	}
+}
